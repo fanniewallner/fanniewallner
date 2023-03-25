@@ -22,3 +22,7 @@ I have learnt the following techniques so far in school:
 I will learn followeing before i commence my first internship:
 - REACT
 - UX/UI
+
+#### Portfolio
+Visit my portfolio here:
+https://fanniewallner.netlify.app/
