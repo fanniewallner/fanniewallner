@@ -19,7 +19,7 @@ I have learnt the following techniques so far in school:
 - Javascript/Typescript
 - API-development, REST-APIs and MongoDB
 
-I will learn followeing before i commence my first internship:
+I will learn following before i commence my first internship:
 - REACT
 - UX/UI
 
