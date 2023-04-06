@@ -23,7 +23,7 @@ I will learn following before i commence my first internship:
 - REACT
 - UX/UI
 
-![Fannie's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanniewallner&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanniewallner&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Portfolio
 Visit my portfolio here:
