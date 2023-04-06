@@ -23,12 +23,8 @@ I will learn following before i commence my first internship:
 - REACT
 - UX/UI
 
-<a href="https://github.com/fanniewallner/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fanniewallner&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/fanniewallner/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fanniewallner&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanniewallner&hide_progress=true)](https://github.com/fanniewallner/github-readme-stats)
+
 
 #### Portfolio
 Visit my portfolio here:
