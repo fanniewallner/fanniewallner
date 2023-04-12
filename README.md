@@ -18,6 +18,7 @@ I have learnt the following techniques so far in school:
 - CSS/SCSS
 - Javascript/Typescript
 - API-development, REST-APIs and MongoDB
+- Vue
 
 I will learn following before i commence my first internship:
 - REACT
