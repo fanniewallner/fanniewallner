@@ -2,12 +2,11 @@
 
 ### About me
 
-I am an aspiring front end developer studying at Medieinstitutet in Stockholm graduating in May 2024. 
+Frontend developer.
 
-📫 How to reach me: fannie.wallner@medieinstitutet.se
-Connect with me on [LinkedIn](https://www.linkedin.com/in/fannie-wallner-87635b239/) 
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/fannie-wallner-87635b239/) 
 - 😄 Pronouns: Her/she
-- 🌱 I’m currently an intern at a company where I develop my skills in React adn testing.
+- 🌱 I’m currently learning more about testing strategies and C# .NET applications.
 - ⚡ Fun fact: I am a former cheerleader and therefor a true teamplayer wanting everyone in the team to succeed together.
 
 ### Tech skills 
@@ -19,10 +18,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/fannie-wallner-87635b2
 - Vue
 - React
 - UX/UI
-- Testing with Cypress and Jest
-
-  
-
+- Testing
+- C# .NET
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanniewallner&hide_progress=true)](https://github.com/fanniewallner/github-readme-stats)
 
